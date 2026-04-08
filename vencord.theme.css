@@ -1,0 +1,21 @@
+/* import the parent */
+@import url('https://imbypass.github.io/base16-discord/omarchy-discord.theme.css');
+
+:root {
+    --color00: #2c2b3b;
+    --color01: #c2a3b1;
+    --color02: #abc0a5;
+    --color03: #bfc2a3;
+    --color04: #a4aec1;
+    --color05: #bca9b8;
+    --color06: #9ec7c6;
+    --color07: #bcb3cc;
+    --color08: #656581;
+    --color09: #cd98b4;
+    --color10: #a8cd98;
+    --color11: #c7cd98;
+    --color12: #98a8cd;
+    --color13: #c69fc1;
+    --color14: #98cdcc;
+    --color15: #bbb3cc;
+}

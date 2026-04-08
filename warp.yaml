@@ -1,0 +1,26 @@
+name: Pastelppuccin
+accent: "#a4aec1"
+cursor: "#a4aec1"
+background: "#2c2b3b"
+foreground: "#bcb3cc"
+details: darker
+
+terminal_colors:
+  normal:
+    black:   "#2c2b3b"
+    red:     "#c2a3b1"
+    green:   "#abc0a5"
+    yellow:  "#bfc2a3"
+    blue:    "#a4aec1"
+    magenta: "#bca9b8"
+    cyan:    "#9ec7c6"
+    white:   "#bcb3cc"
+  bright:
+    black:   "#656581"
+    red:     "#cd98b4"
+    green:   "#a8cd98"
+    yellow:  "#c7cd98"
+    blue:    "#98a8cd"
+    magenta: "#c69fc1"
+    cyan:    "#98cdcc"
+    white:   "#bbb3cc"
