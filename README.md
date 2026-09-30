@@ -20,7 +20,7 @@ at **[Wallppuccin](#-wallppuccin)**.
 
 
 <p align="center">
-  <img src="wallppuccin.gif" alt="Pastelppuccin wallpapers" width="720">
+  <img src="wallpapers-preview.gif" alt="Pastelppuccin wallpapers" width="720">
 </p>
 
 ---
