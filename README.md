@@ -1,4 +1,3 @@
-<div align="center">
 
 # Pastelppuccin
 
@@ -6,7 +5,6 @@
 A dusty-pastel Omarchy theme: ink-blue backgrounds, lavender text, and colors
 drawn straight from its wallpapers.
 
-</div>
 
 <p align="center">
   <img src="preview.png" alt="Pastelppuccin preview" width="100%">
@@ -20,6 +18,11 @@ Looking for more wallpapers in the same spirit? **[Wallppuccin](https://github.c
 is my curated collection of wallpapers converted to the Catppuccin Mocha
 palette. Drop any of them into `~/.config/omarchy/backgrounds/` and they will
 sit right at home with this theme.
+
+
+<p align="center">
+  <video src="https://github.com/user-attachments/assets/8abf66a1-a4e9-4521-91e2-495723c4a67e" width="420" controls muted loop playsinline></video>
+</p>
 
 
 ---
