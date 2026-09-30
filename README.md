@@ -21,9 +21,9 @@ is my curated collection of wallpapers converted to the Catppuccin Mocha
 palette. Drop any of them into `~/.config/omarchy/backgrounds/` and they will
 sit right at home with this theme.
 
-<p align="center">
-  <img src="assets/wallppuccin-preview.webp" alt="Wallppuccin preview" width="90%">
-</p>
+   <p align="center">
+     <video src="assets/wallppuccin-preview.mp4" width="420" controls muted loop playsinline></video>
+   </p>
 
 ---
 
