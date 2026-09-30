@@ -12,6 +12,19 @@ drawn straight from its wallpapers.
 
 ---
 
+## 🖼️ Wallpapers
+
+These are the wallpapers I picked for you — drop them into
+`~/.config/omarchy/backgrounds/`. Want more Catppuccin wallpapers? Take a look
+at **[Wallppuccin](#-wallppuccin)**.
+
+
+<p align="center">
+  <img src="wallppuccin.gif" alt="Pastelppuccin wallpapers" width="720">
+</p>
+
+---
+
 ## 🌿 Wallppuccin
 
 Looking for more wallpapers in the same spirit? **[Wallppuccin](https://github.com/imanubdesigner/wallppuccin)**
