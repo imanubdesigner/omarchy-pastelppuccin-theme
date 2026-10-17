@@ -7,7 +7,7 @@ drawn straight from its wallpapers.
 
 
 <p align="center">
-  <img src="preview.png" alt="Pastelppuccin preview" width="100%">
+  <img src="preview.webp" alt="Pastelppuccin preview" width="100%">
 </p>
 
 ---
