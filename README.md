@@ -27,7 +27,7 @@ at **[Wallppuccin](#-wallppuccin)**.
 
 ## 🌿 Wallppuccin
 
-Looking for more wallpapers in the same spirit? **[Wallppuccin](https://github.com/imanubdesigner/wallppuccin)**
+Looking for more wallpapers in the same spirit? **[Wallppuccin](https://codeberg.org/imanubdesigner/wallppuccin)**
 is my curated collection of wallpapers converted to the Catppuccin Mocha
 palette. Drop any of them into `~/.config/omarchy/backgrounds/` and they will
 sit right at home with this theme.
@@ -43,7 +43,7 @@ sit right at home with this theme.
 ## Installation
 
 ```bash
-omarchy theme install https://github.com/imanubdesigner/omarchy-pastelppuccin-theme
+omarchy theme install https://codeberg.org/imanubdesigner/omarchy-pastelppuccin-theme
 ```
 
 Then pick **Pastelppuccin** from *Style > Theme* in the Omarchy menu.
