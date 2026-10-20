@@ -30,7 +30,7 @@ palette. Drop any of them into `~/.config/omarchy/backgrounds/` and they will
 sit right at home with this theme.
 
 <p align="center">
-  <video src="wallppuccin_preview.mp4" width="420" controls muted loop playsinline></video>
+  <video src="https://codeberg.org/imanubdesigner/omarchy-pastelppuccin-theme/media/branch/main/wallppuccin_preview.mp4" width="540" controls></video>
 </p>
 
 ---
