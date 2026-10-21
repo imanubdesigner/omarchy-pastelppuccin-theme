@@ -8,6 +8,12 @@ drawn straight from its wallpapers.
   <img src="preview.webp" alt="Pastelppuccin preview" width="100%">
 </p>
 
+> **Wallpapers & copyright** — The artwork in this repository is not my own and is
+> not covered by the MIT license. Most images come from public wallpaper sites,
+> mainly [wallhaven.cc](https://wallhaven.cc), and remain the property of their
+> original authors. If one of them is yours and you'd rather it weren't here,
+> [open an issue](../../issues) and I'll remove it immediately.
+
 ---
 
 ## 🖼️ Wallpapers
@@ -24,13 +30,13 @@ at **[Wallppuccin](#-wallppuccin)**.
 
 ## 🌿 Wallppuccin
 
-Looking for more wallpapers in the same spirit? **[Wallppuccin](https://codeberg.org/imanubdesigner/wallppuccin)**
+Looking for more wallpapers in the same spirit? **[Wallppuccin](https://github.com/imanubdesigner/wallppuccin)**
 is my curated collection of wallpapers converted to the Catppuccin Mocha
 palette. Drop any of them into `~/.config/omarchy/backgrounds/` and they will
 sit right at home with this theme.
 
 <p align="center">
-  <video src="https://codeberg.org/imanubdesigner/omarchy-pastelppuccin-theme/media/branch/main/wallppuccin_preview.mp4" width="540" controls></video>
+  ▶ <a href="wallppuccin_preview.mp4">Watch the Wallppuccin tour (MP4)</a>
 </p>
 
 ---
@@ -38,7 +44,7 @@ sit right at home with this theme.
 ## Installation
 
 ```bash
-omarchy theme install https://codeberg.org/imanubdesigner/omarchy-pastelppuccin-theme
+omarchy theme install https://github.com/imanubdesigner/omarchy-pastelppuccin-theme
 ```
 
 Then pick **Pastelppuccin** from *Style > Theme* in the Omarchy menu.
@@ -67,4 +73,8 @@ Icons use **Yaru-purple**.
 - Wallpaper artwork from [Wallhaven](https://wallhaven.cc), recolored to fit.
 - Built for [Omarchy](https://omarchy.org).
 
-Released under the [MIT License](LICENSE).
+No license is granted for the wallpaper images: they remain the property of their
+authors. Takedown requests: [open an issue](../../issues).
+
+Released under the [MIT License](LICENSE). The license covers the theme's code and
+configuration only, not the images.
