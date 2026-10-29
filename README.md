@@ -35,7 +35,9 @@ is my curated collection of wallpapers converted to the Catppuccin Mocha
 palette. Drop any of them into `~/.config/omarchy/backgrounds/` and they will
 sit right at home with this theme.
 
-![](/home/manu/.config/marktext/images/49bf70b05e7395c00e01dcae0b55221ae634df4d.gif)
+<p align="center">
+  <img src="wallppuccin_preview.gif" alt="Wallppuccin Repository preview" width="720">
+</p>
 
 ---
 
