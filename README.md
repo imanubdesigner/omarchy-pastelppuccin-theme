@@ -28,19 +28,6 @@ at **[Wallppuccin](#-wallppuccin)**.
 
 ---
 
-## 🌿 Wallppuccin
-
-Looking for more wallpapers in the same spirit? **[Wallppuccin](https://github.com/imanubdesigner/wallppuccin)**
-is my curated collection of wallpapers converted to the Catppuccin Mocha
-palette. Drop any of them into `~/.config/omarchy/backgrounds/` and they will
-sit right at home with this theme.
-
-<p align="center">
-  <img src="wallppuccin_preview.gif" alt="Wallppuccin Repository preview" width="720">
-</p>
-
----
-
 ## Installation
 
 ```bash
